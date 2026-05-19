@@ -1,4 +1,24 @@
 D 'robhdfe': Robust high-dimensional fixed effects estimation with clustered standard errors Use robhdfe With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F estfe.ado
+F reghdfe.ado
+F reghdfe.mata
+F reghdfe.sthlp
+F reghdfe3.ado
+F reghdfe3.sthlp
+F reghdfe3_estat.ado
+F reghdfe3_footnote.ado
+F reghdfe3_p.ado
+F reghdfe5.ado
+F reghdfe5.mata
+F reghdfe5.sthlp
+F reghdfe5_estat.ado
+F reghdfe5_footnote.ado
+F reghdfe5_header.ado
+F reghdfe5_p.ado
+F reghdfe5_parse.ado
+F reghdfe_estat.ado
+F reghdfe_footnote.ado
+F reghdfe_header.ado
+F reghdfe_p.ado
+F reghdfe_programming.sthlp
