@@ -1,4 +1,4 @@
-D 'DEA': Data envelopment analysis
+D 'robhdfe': Robust high-dimensional fixed effects estimation with clustered standard errors Use robhdfe With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F hdfe.ado
+F hdfe.sthlp
