@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p robhdfe Robust high-dimensional fixed effects estimation with clustered standard errors Use robhdfe With STATA 19
